@@ -156,7 +156,7 @@
       "teamId": 3
     }
   ],
-  "workers": [
+  "adjusters": [
     {
       "id": 1,
       "userId": 4,
@@ -292,7 +292,7 @@
       "dateRespPlRoggs": "February 25, 2021",
       "dateDepositionPlCompleted": "May 17, 2021",
       "trialDate": "January 15, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -388,7 +388,7 @@
       "dateRespPlRoggs": "June 25, 2021",
       "dateDepositionPlCompleted": "September 22, 2021",
       "trialDate": "December 10, 2023",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -435,7 +435,7 @@
       "dateRespPlRoggs": "August 6, 2021",
       "dateDepositionPlCompleted": "November 1, 2021",
       "trialDate": "February 5, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -555,7 +555,7 @@
       "dateRespPlRoggs": "December 20, 2021",
       "dateDepositionPlCompleted": "March 15, 2022",
       "trialDate": "February 25, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -795,7 +795,7 @@
       "dateRespPlRoggs": "November 9, 2022",
       "dateDepositionPlCompleted": "February 6, 2023",
       "trialDate": "July 1, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -819,7 +819,7 @@
       "dateRespPlRoggs": "December 7, 2022",
       "dateDepositionPlCompleted": "March 5, 2023",
       "trialDate": "July 15, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -843,7 +843,7 @@
       "dateRespPlRoggs": "January 4, 2023",
       "dateDepositionPlCompleted": "April 3, 2023",
       "trialDate": "August 5, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -1179,7 +1179,7 @@
       "dateRespPlRoggs": "March 3, 2024",
       "dateDepositionPlCompleted": "June 1, 2024",
       "trialDate": "June 15, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -1635,7 +1635,7 @@
       "dateRespPlRoggs": "October 3, 2024",
       "dateDepositionPlCompleted": "January 1, 2024",
       "trialDate": "January 15, 2024",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
@@ -2379,7 +2379,7 @@
       "dateRespPlRoggs": "September 7, 2024",
       "dateDepositionPlCompleted": "December 6, 2024",
       "trialDate": "December 22, 2031",
-      "reservesSubmitted": true,
+      "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
       "trialConfScheduled": false
