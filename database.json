@@ -266,7 +266,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 1, 2021",
       "dateRespondedComplaint": "January 15, 2021",
       "dateRespondedPlRFP": "January 15, 2021",
@@ -277,7 +279,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 2,
@@ -290,7 +293,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 10, 2021",
       "dateRespondedComplaint": "February 25, 2021",
       "dateRespondedPlRFP": "February 25, 2021",
@@ -301,7 +306,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 3,
@@ -314,7 +320,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 5, 2021",
       "dateRespondedComplaint": "March 20, 2021",
       "dateRespondedPlRFP": "March 20, 2021",
@@ -325,7 +333,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 4,
@@ -338,7 +347,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 2, 2021",
       "dateRespondedComplaint": "April 17, 2021",
       "dateRespondedPlRFP": "April 17, 2021",
@@ -349,7 +360,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 5,
@@ -362,7 +374,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 20, 2021",
       "dateRespondedComplaint": "June 4, 2021",
       "dateRespondedPlRFP": "June 4, 2021",
@@ -373,7 +387,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 6,
@@ -386,7 +401,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 10, 2021",
       "dateRespondedComplaint": "June 25, 2021",
       "dateRespondedPlRFP": "June 25, 2021",
@@ -397,7 +414,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 7,
@@ -410,7 +428,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 5, 2021",
       "dateRespondedComplaint": "July 20, 2021",
       "dateRespondedPlRFP": "July 20, 2021",
@@ -420,7 +440,9 @@
       "trialDate": "January 8, 2024",
       "reservesSubmitted": true,
       "conference50Scheduled": false,
-      "conference100Scheduled": false
+      "conference100Scheduled": false,
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 8,
@@ -433,7 +455,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 22, 2021",
       "dateRespondedComplaint": "August 6, 2021",
       "dateRespondedPlRFP": "August 6, 2021",
@@ -444,7 +468,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 9,
@@ -457,7 +482,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 5, 2021",
       "dateRespondedComplaint": "August 20, 2021",
       "dateRespondedPlRFP": "August 20, 2021",
@@ -468,7 +495,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 10,
@@ -481,7 +509,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 2, 2021",
       "dateRespondedComplaint": "September 17, 2021",
       "dateRespondedPlRFP": "September 17, 2021",
@@ -492,7 +522,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 11,
@@ -505,7 +536,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 8, 2021",
       "dateRespondedComplaint": "October 23, 2021",
       "dateRespondedPlRFP": "October 23, 2021",
@@ -516,7 +549,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 12,
@@ -529,7 +563,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 12, 2021",
       "dateRespondedComplaint": "November 27, 2021",
       "dateRespondedPlRFP": "November 27, 2021",
@@ -540,7 +576,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 13,
@@ -553,7 +590,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 5, 2021",
       "dateRespondedComplaint": "December 20, 2021",
       "dateRespondedPlRFP": "December 20, 2021",
@@ -564,7 +603,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 14,
@@ -577,7 +617,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 10, 2022",
       "dateRespondedComplaint": "January 25, 2022",
       "dateRespondedPlRFP": "January 25, 2022",
@@ -588,7 +630,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 15,
@@ -601,7 +644,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 15, 2022",
       "dateRespondedComplaint": "March 2, 2022",
       "dateRespondedPlRFP": "March 2, 2022",
@@ -612,7 +657,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 16,
@@ -625,7 +671,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 25, 2022",
       "dateRespondedComplaint": "April 9, 2022",
       "dateRespondedPlRFP": "April 9, 2022",
@@ -636,7 +684,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 17,
@@ -649,7 +698,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 22, 2022",
       "dateRespondedComplaint": "May 7, 2022",
       "dateRespondedPlRFP": "May 7, 2022",
@@ -660,7 +711,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 18,
@@ -673,7 +725,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 15, 2022",
       "dateRespondedComplaint": "May 30, 2022",
       "dateRespondedPlRFP": "May 30, 2022",
@@ -684,7 +738,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 19,
@@ -697,7 +752,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 10, 2022",
       "dateRespondedComplaint": "June 25, 2022",
       "dateRespondedPlRFP": "June 25, 2022",
@@ -708,7 +765,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 20,
@@ -721,7 +779,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 15, 2022",
       "dateRespondedComplaint": "July 30, 2022",
       "dateRespondedPlRFP": "July 30, 2022",
@@ -732,7 +792,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 21,
@@ -745,7 +806,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 22, 2022",
       "dateRespondedComplaint": "September 6, 2022",
       "dateRespondedPlRFP": "September 6, 2022",
@@ -756,7 +819,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 22,
@@ -769,7 +833,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 20, 2022",
       "dateRespondedComplaint": "October 5, 2022",
       "dateRespondedPlRFP": "October 5, 2022",
@@ -780,7 +846,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 23,
@@ -793,7 +860,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 25, 2022",
       "dateRespondedComplaint": "November 9, 2022",
       "dateRespondedPlRFP": "November 9, 2022",
@@ -804,7 +873,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 24,
@@ -817,7 +887,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 22, 2022",
       "dateRespondedComplaint": "December 7, 2022",
       "dateRespondedPlRFP": "December 7, 2022",
@@ -828,7 +900,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 25,
@@ -841,7 +914,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 20, 2022",
       "dateRespondedComplaint": "January 4, 2023",
       "dateRespondedPlRFP": "January 4, 2023",
@@ -852,7 +927,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 26,
@@ -865,7 +941,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 20, 2023",
       "dateRespondedComplaint": "February 4, 2023",
       "dateRespondedPlRFP": "February 4, 2023",
@@ -876,7 +954,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 27,
@@ -889,7 +968,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 22, 2023",
       "dateRespondedComplaint": "March 9, 2023",
       "dateRespondedPlRFP": "March 9, 2023",
@@ -900,7 +981,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 28,
@@ -913,7 +995,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 20, 2023",
       "dateRespondedComplaint": "April 4, 2023",
       "dateRespondedPlRFP": "April 4, 2023",
@@ -924,7 +1008,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 29,
@@ -937,7 +1022,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 15, 2023",
       "dateRespondedComplaint": "April 30, 2023",
       "dateRespondedPlRFP": "April 30, 2023",
@@ -948,7 +1035,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 30,
@@ -961,7 +1049,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 20, 2023",
       "dateRespondedComplaint": "June 4, 2023",
       "dateRespondedPlRFP": "June 4, 2023",
@@ -972,7 +1062,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 31,
@@ -985,7 +1076,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 22, 2023",
       "dateRespondedComplaint": "July 7, 2023",
       "dateRespondedPlRFP": "July 7, 2023",
@@ -996,7 +1089,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 32,
@@ -1009,7 +1103,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 15, 2023",
       "dateRespondedComplaint": "July 30, 2023",
       "dateRespondedPlRFP": "July 30, 2023",
@@ -1020,7 +1116,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 33,
@@ -1033,7 +1130,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 18, 2023",
       "dateRespondedComplaint": "September 2, 2023",
       "dateRespondedPlRFP": "September 2, 2023",
@@ -1044,7 +1143,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 34,
@@ -1057,7 +1157,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 22, 2023",
       "dateRespondedComplaint": "October 7, 2023",
       "dateRespondedPlRFP": "October 7, 2023",
@@ -1068,7 +1170,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 35,
@@ -1081,7 +1184,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 20, 2023",
       "dateRespondedComplaint": "November 4, 2023",
       "dateRespondedPlRFP": "November 4, 2023",
@@ -1092,7 +1197,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 36,
@@ -1105,7 +1211,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 18, 2023",
       "dateRespondedComplaint": "December 2, 2023",
       "dateRespondedPlRFP": "December 2, 2023",
@@ -1116,7 +1224,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 37,
@@ -1129,7 +1238,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 22, 2023",
       "dateRespondedComplaint": "January 6, 2024",
       "dateRespondedPlRFP": "January 6, 2024",
@@ -1140,7 +1251,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 38,
@@ -1153,7 +1265,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 20, 2024",
       "dateRespondedComplaint": "February 4, 2024",
       "dateRespondedPlRFP": "February 4, 2024",
@@ -1164,7 +1278,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 39,
@@ -1177,7 +1292,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 18, 2024",
       "dateRespondedComplaint": "March 3, 2024",
       "dateRespondedPlRFP": "March 3, 2024",
@@ -1188,7 +1305,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 40,
@@ -1201,7 +1319,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 22, 2024",
       "dateRespondedComplaint": "April 6, 2024",
       "dateRespondedPlRFP": "April 6, 2024",
@@ -1212,7 +1332,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 41,
@@ -1225,7 +1346,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 20, 2024",
       "dateRespondedComplaint": "May 5, 2024",
       "dateRespondedPlRFP": "May 5, 2024",
@@ -1236,7 +1359,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 42,
@@ -1249,7 +1373,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 22, 2024",
       "dateRespondedComplaint": "June 6, 2024",
       "dateRespondedPlRFP": "June 6, 2024",
@@ -1260,7 +1386,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 43,
@@ -1273,7 +1400,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 18, 2024",
       "dateRespondedComplaint": "July 3, 2024",
       "dateRespondedPlRFP": "July 3, 2024",
@@ -1284,7 +1413,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 44,
@@ -1297,7 +1427,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 20, 2024",
       "dateRespondedComplaint": "August 4, 2024",
       "dateRespondedPlRFP": "August 4, 2024",
@@ -1308,7 +1440,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 45,
@@ -1321,7 +1454,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 22, 2024",
       "dateRespondedComplaint": "September 6, 2024",
       "dateRespondedPlRFP": "September 6, 2024",
@@ -1332,7 +1467,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 46,
@@ -1345,7 +1481,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 18, 2024",
       "dateRespondedComplaint": "October 3, 2024",
       "dateRespondedPlRFP": "October 3, 2024",
@@ -1356,7 +1494,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 47,
@@ -1369,7 +1508,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 20, 2024",
       "dateRespondedComplaint": "November 4, 2024",
       "dateRespondedPlRFP": "November 4, 2024",
@@ -1380,7 +1521,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 48,
@@ -1393,7 +1535,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 18, 2024",
       "dateRespondedComplaint": "December 3, 2024",
       "dateRespondedPlRFP": "December 3, 2024",
@@ -1404,7 +1548,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 49,
@@ -1417,7 +1562,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 22, 2024",
       "dateRespondedComplaint": "January 6, 2024",
       "dateRespondedPlRFP": "January 6, 2024",
@@ -1428,7 +1575,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 50,
@@ -1441,7 +1589,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 20, 2024",
       "dateRespondedComplaint": "February 4, 2024",
       "dateRespondedPlRFP": "February 4, 2024",
@@ -1452,7 +1602,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 51,
@@ -1465,7 +1616,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 18, 2024",
       "dateRespondedComplaint": "March 5, 2024",
       "dateRespondedPlRFP": "March 5, 2024",
@@ -1476,7 +1629,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 52,
@@ -1489,7 +1643,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 22, 2024",
       "dateRespondedComplaint": "April 6, 2024",
       "dateRespondedPlRFP": "April 6, 2024",
@@ -1500,7 +1656,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 53,
@@ -1513,7 +1670,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 20, 2024",
       "dateRespondedComplaint": "May 5, 2024",
       "dateRespondedPlRFP": "May 5, 2024",
@@ -1524,7 +1683,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 54,
@@ -1537,7 +1697,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 18, 2024",
       "dateRespondedComplaint": "June 3, 2024",
       "dateRespondedPlRFP": "June 3, 2024",
@@ -1548,7 +1710,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 55,
@@ -1561,7 +1724,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 22, 2024",
       "dateRespondedComplaint": "July 7, 2024",
       "dateRespondedPlRFP": "July 7, 2024",
@@ -1572,7 +1737,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 56,
@@ -1585,7 +1751,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 20, 2024",
       "dateRespondedComplaint": "August 4, 2024",
       "dateRespondedPlRFP": "August 4, 2024",
@@ -1596,7 +1764,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 57,
@@ -1609,7 +1778,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 22, 2024",
       "dateRespondedComplaint": "September 6, 2024",
       "dateRespondedPlRFP": "September 6, 2024",
@@ -1620,7 +1791,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 58,
@@ -1633,7 +1805,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 18, 2024",
       "dateRespondedComplaint": "October 3, 2024",
       "dateRespondedPlRFP": "October 3, 2024",
@@ -1644,7 +1818,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 59,
@@ -1657,7 +1832,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 20, 2024",
       "dateRespondedComplaint": "November 4, 2024",
       "dateRespondedPlRFP": "November 4, 2024",
@@ -1668,7 +1845,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 60,
@@ -1681,7 +1859,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 18, 2024",
       "dateRespondedComplaint": "December 3, 2024",
       "dateRespondedPlRFP": "December 3, 2024",
@@ -1692,7 +1872,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 61,
@@ -1705,7 +1886,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 22, 2024",
       "dateRespondedComplaint": "January 6, 2024",
       "dateRespondedPlRFP": "January 6, 2024",
@@ -1716,7 +1899,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 62,
@@ -1729,7 +1913,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 20, 2024",
       "dateRespondedComplaint": "February 4, 2024",
       "dateRespondedPlRFP": "February 4, 2024",
@@ -1740,7 +1926,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 63,
@@ -1753,7 +1940,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 18, 2024",
       "dateRespondedComplaint": "March 5, 2024",
       "dateRespondedPlRFP": "March 5, 2024",
@@ -1764,7 +1953,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 64,
@@ -1777,7 +1967,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 22, 2024",
       "dateRespondedComplaint": "April 6, 2024",
       "dateRespondedPlRFP": "April 6, 2024",
@@ -1788,7 +1980,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 65,
@@ -1801,7 +1994,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 20, 2024",
       "dateRespondedComplaint": "May 5, 2024",
       "dateRespondedPlRFP": "May 5, 2024",
@@ -1812,7 +2007,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 66,
@@ -1825,7 +2021,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 18, 2024",
       "dateRespondedComplaint": "June 3, 2024",
       "dateRespondedPlRFP": "June 3, 2024",
@@ -1836,7 +2034,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 67,
@@ -1849,7 +2048,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 22, 2024",
       "dateRespondedComplaint": "July 7, 2024",
       "dateRespondedPlRFP": "July 7, 2024",
@@ -1860,7 +2061,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 68,
@@ -1873,7 +2075,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 20, 2024",
       "dateRespondedComplaint": "August 4, 2024",
       "dateRespondedPlRFP": "August 4, 2024",
@@ -1884,7 +2088,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 69,
@@ -1897,7 +2102,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 22, 2024",
       "dateRespondedComplaint": "September 6, 2024",
       "dateRespondedPlRFP": "September 6, 2024",
@@ -1908,7 +2115,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 70,
@@ -1921,7 +2129,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 18, 2024",
       "dateRespondedComplaint": "October 3, 2024",
       "dateRespondedPlRFP": "October 3, 2024",
@@ -1932,7 +2142,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 71,
@@ -1945,7 +2156,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 20, 2024",
       "dateRespondedComplaint": "November 4, 2024",
       "dateRespondedPlRFP": "November 4, 2024",
@@ -1956,7 +2169,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 72,
@@ -1969,7 +2183,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 18, 2024",
       "dateRespondedComplaint": "December 3, 2024",
       "dateRespondedPlRFP": "December 3, 2024",
@@ -1980,7 +2196,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 73,
@@ -1993,7 +2210,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 22, 2024",
       "dateRespondedComplaint": "January 6, 2024",
       "dateRespondedPlRFP": "January 6, 2024",
@@ -2004,7 +2223,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 74,
@@ -2017,7 +2237,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 20, 2024",
       "dateRespondedComplaint": "February 4, 2024",
       "dateRespondedPlRFP": "February 4, 2024",
@@ -2028,7 +2250,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 75,
@@ -2041,7 +2264,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 18, 2024",
       "dateRespondedComplaint": "March 5, 2024",
       "dateRespondedPlRFP": "March 5, 2024",
@@ -2052,7 +2277,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 76,
@@ -2065,7 +2291,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 22, 2024",
       "dateRespondedComplaint": "August 7, 2024",
       "dateRespondedPlRFP": "August 7, 2024",
@@ -2076,7 +2304,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 77,
@@ -2089,7 +2318,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 20, 2024",
       "dateRespondedComplaint": "September 7, 2024",
       "dateRespondedPlRFP": "September 7, 2024",
@@ -2100,7 +2331,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 78,
@@ -2113,7 +2345,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 22, 2024",
       "dateRespondedComplaint": "October 7, 2024",
       "dateRespondedPlRFP": "October 7, 2024",
@@ -2124,7 +2358,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 79,
@@ -2137,7 +2372,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "October 20, 2024",
       "dateRespondedComplaint": "November 7, 2024",
       "dateRespondedPlRFP": "November 7, 2024",
@@ -2148,7 +2385,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 80,
@@ -2161,7 +2399,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "November 22, 2024",
       "dateRespondedComplaint": "December 7, 2024",
       "dateRespondedPlRFP": "December 7, 2024",
@@ -2172,7 +2412,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 81,
@@ -2185,7 +2426,9 @@
       "dateOfLossId": 2,
       "attorneyId": 1,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "December 20, 2024",
       "dateRespondedComplaint": "January 7, 2024",
       "dateRespondedPlRFP": "January 7, 2024",
@@ -2196,7 +2439,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 82,
@@ -2209,7 +2453,9 @@
       "dateOfLossId": 1,
       "attorneyId": 2,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "January 22, 2024",
       "dateRespondedComplaint": "February 7, 2024",
       "dateRespondedPlRFP": "February 7, 2024",
@@ -2220,7 +2466,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 83,
@@ -2233,7 +2480,9 @@
       "dateOfLossId": 2,
       "attorneyId": 3,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "February 20, 2024",
       "dateRespondedComplaint": "March 7, 2024",
       "dateRespondedPlRFP": "March 7, 2024",
@@ -2244,7 +2493,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 84,
@@ -2257,7 +2507,9 @@
       "dateOfLossId": 1,
       "attorneyId": 4,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "March 22, 2024",
       "dateRespondedComplaint": "April 7, 2024",
       "dateRespondedPlRFP": "April 7, 2024",
@@ -2268,7 +2520,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 85,
@@ -2281,7 +2534,9 @@
       "dateOfLossId": 2,
       "attorneyId": 5,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "April 20, 2024",
       "dateRespondedComplaint": "May 7, 2024",
       "dateRespondedPlRFP": "May 7, 2024",
@@ -2292,7 +2547,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 86,
@@ -2305,7 +2561,9 @@
       "dateOfLossId": 1,
       "attorneyId": 1,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "May 22, 2024",
       "dateRespondedComplaint": "June 7, 2024",
       "dateRespondedPlRFP": "June 7, 2024",
@@ -2316,7 +2574,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 87,
@@ -2329,7 +2588,9 @@
       "dateOfLossId": 2,
       "attorneyId": 2,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "June 20, 2024",
       "dateRespondedComplaint": "July 7, 2024",
       "dateRespondedPlRFP": "July 7, 2024",
@@ -2340,7 +2601,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 88,
@@ -2353,7 +2615,9 @@
       "dateOfLossId": 1,
       "attorneyId": 3,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "July 22, 2024",
       "dateRespondedComplaint": "August 7, 2024",
       "dateRespondedPlRFP": "August 7, 2024",
@@ -2364,7 +2628,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 89,
@@ -2377,7 +2642,9 @@
       "dateOfLossId": 2,
       "attorneyId": 4,
       "policyType": 2,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "August 20, 2024",
       "dateRespondedComplaint": "September 7, 2024",
       "dateRespondedPlRFP": "September 7, 2024",
@@ -2388,7 +2655,8 @@
       "reservesSubmitted": false,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     },
     {
       "id": 90,
@@ -2401,7 +2669,9 @@
       "dateOfLossId": 1,
       "attorneyId": 5,
       "policyType": 1,
-      "discoveryOptions": 1,
+      "IntServedWithComplaint": false,
+      "RFPServedWithComplaint": false,
+      "RFAServedWithComplaint": false,
       "dateServed": "September 22, 2024",
       "dateRespondedComplaint": "October 7, 2024",
       "dateRespondedPlRFP": "October 7, 2024",
@@ -2412,7 +2682,8 @@
       "reservesSubmitted": true,
       "conference50Scheduled": false,
       "conference100Scheduled": false,
-      "trialConfScheduled": false
+      "trialConfScheduled": false,
+      "notes": ""
     }
   ],
   "attorneys": [
